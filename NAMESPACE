@@ -3,4 +3,4 @@
 
 useDynLib(admmLASSO)
 exportPattern("^[[:alpha:]]+")
-importFrom(evalCpp, RcppArmadillo, Rcpp)
+importFrom(RcppArmadillo, Rcpp)
